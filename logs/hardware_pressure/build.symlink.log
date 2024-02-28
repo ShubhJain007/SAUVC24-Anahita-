@@ -1,0 +1,5 @@
+Symlinking /home/auviitk/catkin_ws/devel/lib/hardware_pressure/gazebo_pressure_pub
+Symlinking /home/auviitk/catkin_ws/devel/lib/hardware_pressure/pressure_publisher
+Symlinking /home/auviitk/catkin_ws/devel/lib/pkgconfig/hardware_pressure.pc
+Symlinking /home/auviitk/catkin_ws/devel/share/hardware_pressure/cmake/hardware_pressureConfig.cmake
+Symlinking /home/auviitk/catkin_ws/devel/share/hardware_pressure/cmake/hardware_pressureConfig-version.cmake

@@ -1,0 +1,13 @@
+[35m[1mScanning dependencies of target dvl_library[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/dvl_library.dir/src/driver/dvl_ethernet.cpp.o[0m
+[ 28%] [32m[1mLinking CXX shared library /home/auviitk/catkin_ws/devel/.private/hardware_dvl_ethernet/lib/libdvl_library.so[0m
+[ 28%] Built target dvl_library
+[35m[1mScanning dependencies of target gazebo_dvl_driver[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/gazebo_dvl_driver.dir/src/gazebo_dvl_driver.cpp.o[0m
+[35m[1mScanning dependencies of target dvl_node[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/dvl_node.dir/src/hardware_dvl_ethernet/dvl_node.cpp.o[0m
+[ 71%] [32m[1mLinking CXX executable /home/auviitk/catkin_ws/devel/.private/hardware_dvl_ethernet/lib/hardware_dvl_ethernet/gazebo_dvl_driver[0m
+[ 71%] Built target gazebo_dvl_driver
+[ 85%] [32mBuilding CXX object CMakeFiles/dvl_node.dir/src/hardware_dvl_ethernet/dvl_connection.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/auviitk/catkin_ws/devel/.private/hardware_dvl_ethernet/lib/hardware_dvl_ethernet/dvl_node[0m
+[100%] Built target dvl_node
