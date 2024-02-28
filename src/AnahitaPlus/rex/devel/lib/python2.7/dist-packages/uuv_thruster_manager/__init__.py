@@ -1,0 +1,1 @@
+/home/auviitk/rex/devel/.private/uuv_thruster_manager/lib/python2.7/dist-packages/uuv_thruster_manager/__init__.py

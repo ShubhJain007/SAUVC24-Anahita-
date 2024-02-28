@@ -1,0 +1,108 @@
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _mapping_generate_messages_check_deps_slam_srv[0m
+[  0%] Built target _mapping_generate_messages_check_deps_slam_srv
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _mapping_generate_messages_check_deps_slam_msg[0m
+[  0%] Built target _mapping_generate_messages_check_deps_slam_msg
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[  0%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[  0%] Built target nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[  0%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[  0%] Built target nav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target mapping_generate_messages_cpp[0m
+[  5%] [34m[1mGenerating C++ code from mapping/slam_msg.srv[0m
+[ 11%] [34m[1mGenerating C++ code from mapping/slam_srv.srv[0m
+[ 11%] Built target mapping_generate_messages_cpp
+[35m[1mScanning dependencies of target mapping_generate_messages_nodejs[0m
+[ 16%] [34m[1mGenerating Javascript code from mapping/slam_msg.srv[0m
+[ 22%] [34m[1mGenerating Javascript code from mapping/slam_srv.srv[0m
+[ 22%] Built target mapping_generate_messages_nodejs
+[35m[1mScanning dependencies of target mapping_generate_messages_py[0m
+[ 27%] [34m[1mGenerating Python code from SRV mapping/slam_msg[0m
+[ 33%] [34m[1mGenerating Python code from SRV mapping/slam_srv[0m
+[ 38%] [34m[1mGenerating Python srv __init__.py for mapping[0m
+[ 38%] Built target mapping_generate_messages_py
+[35m[1mScanning dependencies of target mapping_generate_messages_lisp[0m
+[ 44%] [34m[1mGenerating Lisp code from mapping/slam_msg.srv[0m
+[ 50%] [34m[1mGenerating Lisp code from mapping/slam_srv.srv[0m
+[ 50%] Built target mapping_generate_messages_lisp
+[35m[1mScanning dependencies of target mapping_generate_messages_eus[0m
+[ 55%] [34m[1mGenerating EusLisp code from mapping/slam_msg.srv[0m
+[ 61%] [34m[1mGenerating EusLisp code from mapping/slam_srv.srv[0m
+[ 66%] [34m[1mGenerating EusLisp manifest code for mapping[0m
+[ 66%] Built target mapping_generate_messages_eus
+[35m[1mScanning dependencies of target mapping_gencpp[0m
+[35m[1mScanning dependencies of target mapping_generate_messages[0m
+[ 66%] Built target mapping_gencpp
+[ 66%] Built target mapping_generate_messages
+[35m[1mScanning dependencies of target mapping_node[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/mapping_node.dir/src/mapping_node.cpp.o[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/mapping_node.dir/src/ekf.cpp.o[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/mapping_node.dir/src/mapping_main.cpp.o[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/mapping_node.dir/src/slam_clsrv.cpp.o[0m
+[ 94%] [32mBuilding CXX object CMakeFiles/mapping_node.dir/src/slam_filter.cpp.o[0m
+In file included from [01m[K/opt/ros/melodic/include/ros/ros.h:40:0[m[K,
+                 from [01m[K/home/auviitk/catkin_ws/src/AnahitaPlus/navigation_layer/mapping/include/mapping_main.h:4[m[K,
+                 from [01m[K/home/auviitk/catkin_ws/src/AnahitaPlus/navigation_layer/mapping/src/mapping_main.cpp:1[m[K:
+[01m[K/home/auviitk/catkin_ws/src/AnahitaPlus/navigation_layer/mapping/src/mapping_main.cpp:[m[K In member function ‘[01m[Kvoid mapping::MappingNode::odometry_update_cb(const ConstPtr&)[m[K’:
+[01m[K/opt/ros/melodic/include/ros/console.h:348:176:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 8 has type ‘[01m[Kgeometry_msgs::Point_<std::allocator<void> >::_x_type {aka double}[m[K’ [[01;35m[K-Wformat=[m[K]
+     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__[01;35m[K)[m[K
+                                                                                                                                                                                [01;35m[K^[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:351:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+     [01;36m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K(NULL, __VA_ARGS__)
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:387:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:572:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+ #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+ #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/auviitk/catkin_ws/src/AnahitaPlus/navigation_layer/mapping/src/mapping_main.cpp:57:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+       [01;36m[KR[m[KOS_INFO("We have already gone to: %d %d",msg->pose.pose.position.x,msg->pose.pose.position.y);
+       [01;36m[K^[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:348:176:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 9 has type ‘[01m[Kgeometry_msgs::Point_<std::allocator<void> >::_y_type {aka double}[m[K’ [[01;35m[K-Wformat=[m[K]
+     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__[01;35m[K)[m[K
+                                                                                                                                                                                [01;35m[K^[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:351:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+     [01;36m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K(NULL, __VA_ARGS__)
+     [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:387:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/ros/console.h:572:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+ #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/melodic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+ #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/auviitk/catkin_ws/src/AnahitaPlus/navigation_layer/mapping/src/mapping_main.cpp:57:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+       [01;36m[KR[m[KOS_INFO("We have already gone to: %d %d",msg->pose.pose.position.x,msg->pose.pose.position.y);
+       [01;36m[K^[m[K
+[100%] [32m[1mLinking CXX executable /home/auviitk/catkin_ws/devel/.private/mapping/lib/mapping/mapping_node[0m
+[100%] Built target mapping_node

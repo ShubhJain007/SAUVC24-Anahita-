@@ -1,0 +1,6 @@
+devel_space: /home/auviitk/rex/devel
+install: false
+install_space: /home/auviitk/rex/install
+profile: default
+source_space: /home/auviitk/rex/src
+workspace: /home/auviitk/rex

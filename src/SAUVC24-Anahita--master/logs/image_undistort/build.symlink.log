@@ -1,0 +1,9 @@
+Symlinking /home/auviitk/catkin_ws/devel/lib/libimage_undistort_nodelet.so
+Symlinking /home/auviitk/catkin_ws/devel/lib/pkgconfig/image_undistort.pc
+Symlinking /home/auviitk/catkin_ws/devel/lib/image_undistort/stereo_info_node
+Symlinking /home/auviitk/catkin_ws/devel/lib/image_undistort/image_undistort_node
+Symlinking /home/auviitk/catkin_ws/devel/lib/image_undistort/dense_stereo_node
+Symlinking /home/auviitk/catkin_ws/devel/lib/image_undistort/depth_node
+Symlinking /home/auviitk/catkin_ws/devel/lib/image_undistort/stereo_undistort_node
+Symlinking /home/auviitk/catkin_ws/devel/share/image_undistort/cmake/image_undistortConfig.cmake
+Symlinking /home/auviitk/catkin_ws/devel/share/image_undistort/cmake/image_undistortConfig-version.cmake

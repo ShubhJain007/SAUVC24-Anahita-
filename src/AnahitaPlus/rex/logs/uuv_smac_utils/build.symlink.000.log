@@ -1,0 +1,4 @@
+Symlinking /home/auviitk/rex/devel/lib/python2.7/dist-packages/uuv_smac_utils/__init__.py
+Symlinking /home/auviitk/rex/devel/lib/pkgconfig/uuv_smac_utils.pc
+Symlinking /home/auviitk/rex/devel/share/uuv_smac_utils/cmake/uuv_smac_utilsConfig.cmake
+Symlinking /home/auviitk/rex/devel/share/uuv_smac_utils/cmake/uuv_smac_utilsConfig-version.cmake

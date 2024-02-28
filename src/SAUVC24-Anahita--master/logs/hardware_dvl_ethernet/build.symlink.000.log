@@ -1,0 +1,6 @@
+Symlinking /home/auviitk/catkin_ws/devel/lib/libdvl_library.so
+Symlinking /home/auviitk/catkin_ws/devel/lib/hardware_dvl_ethernet/gazebo_dvl_driver
+Symlinking /home/auviitk/catkin_ws/devel/lib/hardware_dvl_ethernet/dvl_node
+Symlinking /home/auviitk/catkin_ws/devel/lib/pkgconfig/hardware_dvl_ethernet.pc
+Symlinking /home/auviitk/catkin_ws/devel/share/hardware_dvl_ethernet/cmake/hardware_dvl_ethernetConfig-version.cmake
+Symlinking /home/auviitk/catkin_ws/devel/share/hardware_dvl_ethernet/cmake/hardware_dvl_ethernetConfig.cmake

@@ -1,0 +1,6 @@
+uuv_simulator/uuv_world_plugins/uuv_world_plugins
+/home/auviitk/rex/devel/.private/uuv_world_plugins/cmake.lock /home/auviitk/rex/devel/./cmake.lock
+/home/auviitk/rex/devel/.private/uuv_world_plugins/lib/libuuv_underwater_current_plugin.so /home/auviitk/rex/devel/lib/libuuv_underwater_current_plugin.so
+/home/auviitk/rex/devel/.private/uuv_world_plugins/lib/pkgconfig/uuv_world_plugins.pc /home/auviitk/rex/devel/lib/pkgconfig/uuv_world_plugins.pc
+/home/auviitk/rex/devel/.private/uuv_world_plugins/share/uuv_world_plugins/cmake/uuv_world_pluginsConfig.cmake /home/auviitk/rex/devel/share/uuv_world_plugins/cmake/uuv_world_pluginsConfig.cmake
+/home/auviitk/rex/devel/.private/uuv_world_plugins/share/uuv_world_plugins/cmake/uuv_world_pluginsConfig-version.cmake /home/auviitk/rex/devel/share/uuv_world_plugins/cmake/uuv_world_pluginsConfig-version.cmake

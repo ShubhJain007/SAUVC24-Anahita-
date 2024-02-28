@@ -1,0 +1,1 @@
+/home/auviitk/rex/devel/.private/uuv_smac_example/lib/pkgconfig/uuv_smac_example.pc

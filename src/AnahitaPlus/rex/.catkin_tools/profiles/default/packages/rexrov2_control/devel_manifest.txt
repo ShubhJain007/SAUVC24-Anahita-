@@ -1,0 +1,5 @@
+rexrov2/rexrov2_control
+/home/auviitk/rex/devel/.private/rexrov2_control/cmake.lock /home/auviitk/rex/devel/./cmake.lock
+/home/auviitk/rex/devel/.private/rexrov2_control/lib/pkgconfig/rexrov2_control.pc /home/auviitk/rex/devel/lib/pkgconfig/rexrov2_control.pc
+/home/auviitk/rex/devel/.private/rexrov2_control/share/rexrov2_control/cmake/rexrov2_controlConfig.cmake /home/auviitk/rex/devel/share/rexrov2_control/cmake/rexrov2_controlConfig.cmake
+/home/auviitk/rex/devel/.private/rexrov2_control/share/rexrov2_control/cmake/rexrov2_controlConfig-version.cmake /home/auviitk/rex/devel/share/rexrov2_control/cmake/rexrov2_controlConfig-version.cmake

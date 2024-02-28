@@ -1,0 +1,5 @@
+Symlinking /home/auviitk/rex/devel/lib/uuv_assistants/uuv_message_to_tf
+Symlinking /home/auviitk/rex/devel/lib/python2.7/dist-packages/tf_quaternion/__init__.py
+Symlinking /home/auviitk/rex/devel/lib/pkgconfig/uuv_assistants.pc
+Symlinking /home/auviitk/rex/devel/share/uuv_assistants/cmake/uuv_assistantsConfig.cmake
+Symlinking /home/auviitk/rex/devel/share/uuv_assistants/cmake/uuv_assistantsConfig-version.cmake

@@ -1,0 +1,5 @@
+uuv_simulator/uuv_teleop
+/home/auviitk/rex/devel/.private/uuv_teleop/cmake.lock /home/auviitk/rex/devel/./cmake.lock
+/home/auviitk/rex/devel/.private/uuv_teleop/lib/pkgconfig/uuv_teleop.pc /home/auviitk/rex/devel/lib/pkgconfig/uuv_teleop.pc
+/home/auviitk/rex/devel/.private/uuv_teleop/share/uuv_teleop/cmake/uuv_teleopConfig-version.cmake /home/auviitk/rex/devel/share/uuv_teleop/cmake/uuv_teleopConfig-version.cmake
+/home/auviitk/rex/devel/.private/uuv_teleop/share/uuv_teleop/cmake/uuv_teleopConfig.cmake /home/auviitk/rex/devel/share/uuv_teleop/cmake/uuv_teleopConfig.cmake

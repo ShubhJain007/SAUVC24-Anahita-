@@ -1,0 +1,1 @@
+/home/auviitk/rex/devel/.private/uuv_thruster_manager/include/uuv_thruster_manager/GetThrusterManagerConfig.h

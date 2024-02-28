@@ -1,0 +1,6 @@
+Symlinking /home/auviitk/catkin_ws/devel/lib/hardware_imu/gazebo_imu
+Symlinking /home/auviitk/catkin_ws/devel/lib/hardware_imu/sparton
+Symlinking /home/auviitk/catkin_ws/devel/lib/hardware_imu/px4
+Symlinking /home/auviitk/catkin_ws/devel/lib/pkgconfig/hardware_imu.pc
+Symlinking /home/auviitk/catkin_ws/devel/share/hardware_imu/cmake/hardware_imuConfig-version.cmake
+Symlinking /home/auviitk/catkin_ws/devel/share/hardware_imu/cmake/hardware_imuConfig.cmake

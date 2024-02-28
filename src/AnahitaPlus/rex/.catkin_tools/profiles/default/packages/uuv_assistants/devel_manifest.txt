@@ -1,0 +1,7 @@
+uuv_simulator/uuv_assistants
+/home/auviitk/rex/devel/.private/uuv_assistants/cmake.lock /home/auviitk/rex/devel/./cmake.lock
+/home/auviitk/rex/devel/.private/uuv_assistants/lib/uuv_assistants/uuv_message_to_tf /home/auviitk/rex/devel/lib/uuv_assistants/uuv_message_to_tf
+/home/auviitk/rex/devel/.private/uuv_assistants/lib/python2.7/dist-packages/tf_quaternion/__init__.py /home/auviitk/rex/devel/lib/python2.7/dist-packages/tf_quaternion/__init__.py
+/home/auviitk/rex/devel/.private/uuv_assistants/lib/pkgconfig/uuv_assistants.pc /home/auviitk/rex/devel/lib/pkgconfig/uuv_assistants.pc
+/home/auviitk/rex/devel/.private/uuv_assistants/share/uuv_assistants/cmake/uuv_assistantsConfig.cmake /home/auviitk/rex/devel/share/uuv_assistants/cmake/uuv_assistantsConfig.cmake
+/home/auviitk/rex/devel/.private/uuv_assistants/share/uuv_assistants/cmake/uuv_assistantsConfig-version.cmake /home/auviitk/rex/devel/share/uuv_assistants/cmake/uuv_assistantsConfig-version.cmake
